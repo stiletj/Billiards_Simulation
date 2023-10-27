@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Billiards" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Billiards" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Billiards" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Ball.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Ball.h" />
+		<Unit filename="Physics.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Physics.h" />
+		<Unit filename="Stick.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Stick.h" />
+		<Unit filename="Table.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Table.h" />
+		<Unit filename="Textures.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Textures.h" />
+		<Unit filename="geometry.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="stb_image.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

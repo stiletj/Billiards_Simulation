@@ -1,0 +1,280 @@
+# depslib dependency file v1.0
+1685597310 source:c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\main.c
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	"Ball.h"
+	"Stick.h"
+	"Table.h"
+	"menu.h"
+	"stdio.h"
+
+1685586653 source:c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\stick.c
+	"stick.h"
+
+1685587837 source:c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\table.c
+	"Table.h"
+
+1685543044 source:c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\main.c
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	"Ball.h"
+	"Stick.h"
+	"Table.h"
+	"menu.h"
+	"stdio.h"
+
+1685545590 source:c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\table.c
+	"Table.h"
+
+1685518028 source:c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\menu.c
+	"menu.h"
+
+1685499375 c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\menu.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1684741767 c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\geometry.h
+	<gl/freeglut.h>
+
+1685539878 source:c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\physics.c
+	"Physics.h"
+
+1685500753 c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\physics.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"Ball.h"
+	"Stick.h"
+	"geometry.h"
+	<math.h>
+
+1685589001 c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\ball.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"geometry.h"
+	"math.h"
+	"Textures.h"
+
+1685328463 c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\stick.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	"Ball.h"
+	<math.h>
+
+1685518028 source:c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\menu.c
+	"menu.h"
+
+1685499375 c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\menu.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1684741767 c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\geometry.h
+	<gl/freeglut.h>
+
+1685539878 source:c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\physics.c
+	"Physics.h"
+
+1685500753 c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\physics.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"Ball.h"
+	"Stick.h"
+	"geometry.h"
+	<math.h>
+
+1685539878 c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\ball.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"geometry.h"
+	"math.h"
+	"Textures.h"
+
+1685328463 c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\stick.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	"Ball.h"
+	<math.h>
+
+1685517450 source:c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\ball.c
+	"Ball.h"
+
+1685512069 source:c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\stick.c
+	"stick.h"
+
+1685507968 c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\table.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	<math.h>
+	"geometry.h"
+	"Ball.h"
+
+1685581952 source:c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\ball.c
+	"Ball.h"
+
+1685507968 c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\table.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	<math.h>
+	"geometry.h"
+	"Ball.h"
+
+1685581952 source:c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\ball.c
+	"Ball.h"
+
+1685589001 c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\ball.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	"geometry.h"
+	"math.h"
+	"Textures.h"
+
+1684741767 c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\geometry.h
+	<gl/freeglut.h>
+
+1685597310 source:c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\main.c
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	"Ball.h"
+	"Stick.h"
+	"Table.h"
+	"menu.h"
+	"stdio.h"
+
+1685328463 c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\stick.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+	"Ball.h"
+	<math.h>
+
+1685507968 c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\table.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	<stdio.h>
+	<math.h>
+	"geometry.h"
+	"Ball.h"
+
+1685499375 c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\menu.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"geometry.h"
+
+1685518028 source:c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\menu.c
+	"menu.h"
+
+1685539878 source:c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\physics.c
+	"Physics.h"
+
+1685500753 c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\physics.h
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"Ball.h"
+	"Stick.h"
+	"geometry.h"
+	<math.h>
+
+1685586653 source:c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\stick.c
+	"stick.h"
+
+1685587837 source:c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\table.c
+	"Table.h"
+
+1685528578 c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\textures.h
+
+1685581217 source:c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\textures.c
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"Textures.h"
+	"geometry.h"
+	"stb_image.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1685347641 c:\users\zack cornfield\onedrive - murdoch university\assignment 2\billiards\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1685582558 c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\textures.h
+
+1685581217 source:c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\textures.c
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"Textures.h"
+	"geometry.h"
+	"stb_image.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1685347641 c:\users\tjsti\onedrive - murdoch university\assignment 2\billiards\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1685582558 c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\textures.h
+
+1685581217 source:c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\textures.c
+	<gl/freeglut.h>
+	<GLUT/glut.h>
+	"Textures.h"
+	"geometry.h"
+	"stb_image.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1685347641 c:\users\jacob mondi\onedrive - murdoch university\assignment 2\billiards\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
